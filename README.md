@@ -13,8 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/furkanarslan00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanarslan00" height="30" width="40" /></a>
-<a href="https://codesandbox.com/furkanarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="furkanarslan" height="30" width="40" /></a>
-<a href="https://instagram.com/f.a_sarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f.a_sarii" height="30" width="40" /></a>
+<a href="https://instagram.com/furkann.arsslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f.a_sarii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
